@@ -28,7 +28,6 @@
 - Andrew is a good listener and he always tries to understand what people think and why people feel in their own way. Andrew has ability of  ->  **Empathy**
 - Which one is the key component in cooperation?  ->  **Trust** 
 - What is one of disadvantages having large group?  ->  **Reduce communication**
-  <br>
 - Janet does not want to get involved in any disputes, discussion or conversations with her colleagues. She gets to work late and fails to show up at meetings as she wants to avoid any tasks may be assigned to her. However, she always wants to be apart of any success her team made. Economists call this kind of person is:  ->   **Free rider problem**
 - The need for self-evaluation experiment has shown that people come to know about themselves by having positive attitude in life  ->  **comparing with others**
 - Which is TRUE about long-term orientation culture  ->  **Long-term orientation is often marked by persistence, thrift and frugality**
@@ -38,7 +37,6 @@
 - What are the positive effects of upward comparison?  ->  **Hope and inspiration**
 - What is the negative effect of downward comparison?   ->  **Scorn**
 - Social comparison can lead to  ->  **impacts on self-esteem, feeling of envy, feeling of regret**
-<br>
 - The SEM model suggests that managers may prefer sub optimal candidates because these candidates are not likely to  ->  **threaten the managers' position**
 - What is groupthink?  ->  **Group members are incapable of making a rational decision**
 - People who consider upward comparison as a threat, have  ->  **fixed mindset**
@@ -50,7 +48,6 @@
 - One of the key findings in the Dunning-Kruger effect experiments is top performers tend to  ->  **underestimate their skills**
 - In group decision making process, if there are more people agree on certain point of view, we may consider the fact that the group has  ->  **group polarization**
 - People can claim that they can live independently and separately but they actually have  ->  **a need to belong**
-<br>
 - Groups not only satisfy need to belong, but also provide information, assistance and  ->  **social support**
 - The psychological significance of groups include the need to belong, identity and membership, evolutionary advantages of group living and  ->  **trust in groups**
 - What is the main advantage of social facilitation?  ->  **Perform tasks improved**
