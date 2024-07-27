@@ -10,6 +10,10 @@
 - self-evaluation: tự đánh giá
 
 <hr>
+## Power
+- Authority is another name of:->**Legitimate Power**
+- Coercive power is also referred to as:->**Punish power**
+
 
 ## SESSION 1
 - Formal groups are used to  ->  **organize and distribute work**
