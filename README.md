@@ -220,10 +220,10 @@
     * MX (Mail Exchange Record): Bản ghi trao đổi thư điện tử.
 
 ## Chapter 16: Sờ cu rờ ti
--> Thông Tin Bị Đánh Cắp (Information Theft): Kẻ tấn công có thể lấy cắp dữ liệu nhạy cảm hoặc thông tin quan trọng từ mạng.
--> Mất Mát và Thao Tác Dữ Liệu (Data Loss and Manipulation): Dữ liệu có thể bị mất hoặc bị thay đổi không đúng cách, ảnh hưởng đến tính toàn vẹn của thông tin.
--> Đánh Cắp Danh Tính (Identity Theft): Kẻ tấn công có thể chiếm đoạt danh tính của người dùng để thực hiện các hành vi gian lận hoặc truy cập trái phép.
--> Gián Đoạn Dịch Vụ (Disruption of Service): Kẻ tấn công có thể làm gián đoạn hoặc tấn công từ chối dịch vụ (DoS) để làm cho các dịch vụ mạng không hoạt động.
+- Thông Tin Bị Đánh Cắp (Information Theft): Kẻ tấn công có thể lấy cắp dữ liệu nhạy cảm hoặc thông tin quan trọng từ mạng.
+- Mất Mát và Thao Tác Dữ Liệu (Data Loss and Manipulation): Dữ liệu có thể bị mất hoặc bị thay đổi không đúng cách, ảnh hưởng đến tính toàn vẹn của thông tin.
+- Đánh Cắp Danh Tính (Identity Theft): Kẻ tấn công có thể chiếm đoạt danh tính của người dùng để thực hiện các hành vi gian lận hoặc truy cập trái phép.
+- Gián Đoạn Dịch Vụ (Disruption of Service): Kẻ tấn công có thể làm gián đoạn hoặc tấn công từ chối dịch vụ (DoS) để làm cho các dịch vụ mạng không hoạt động.
 
 1. Network attack
 ![img](./networkattack.png)
