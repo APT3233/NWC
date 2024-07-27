@@ -40,13 +40,29 @@
     * It assists in protocol design
 - Purpose of protocols in data communications --> providing the rules required for a specific type of communication to occur
 - general term that is used to describe a piece of data at any layer of a networking model --> PDU (protocol data unit)
-
-
+- Which name is assigned to the transport layer PDU -> Segment
+- process involves placing one PDU inside of another PDU -> Encapsulation
+- Which PDU format is used when bits are received from the network medium by the NIC of a host -> frame
+- Ethernet -> IP -> TCP -> HTTP
+- which layer of the OSI model would a logical address be added during encapsulation -> network layer
 # Layer
 - Which layer of the OSI model defines services to segment and reassemble data for individual communications between end devices --> Transport
+- Which statement is correct about network protocols -> They define how messages are exchanged between the source and the destination.
+- Why would a Layer 2 switch need an IP address -> to enable the switch to be managed remotely
+- What term describes a network where one computer can be both client and server -> peer-to-peer
+-  What term describes a type of network used by people who work from home or from a small remote office -> SOHO network
+- What term describes a technology that allows devices to connect to the LAN using an electrical outlet? -> powerline networking
+- What term describes a private collection of LANs and WANs that belongs to an organization -> intranet
+- What term describes the ability to use personal devices across a business or campus network -> BYOD
+- At which OSI layer is a source/destination IP address added to a PDU during the encapsulation process -> network layer
+- At which OSI layer is a source/destination port number added to a PDU during the encapsulation process -> transport layer
+- At which OSI layer is data added to a PDU during the encapsulation process -> application layer
+- At which OSI layer is a source/destination MAC address added to a PDU during the encapsulation process -> data link layer
+- When data is encoded as pulses of light, which media is being used to transmit the data -> Fire optic cable
+
+
 
 # Protocol
-
 - BOOTP, POP -> Application layer
 - PPP -> Datalink layer
 - FTP -> truyền file
@@ -59,6 +75,7 @@
 - IMAP ->  giao thức email được sử dụng để truy cập và quản lý email trên một máy chủ thư từ một thiết bị đầu cuối.
 - POP3 -> giao thức được sử dụng để truy cập và lấy email từ một server mail.
 
+# Summary 
 ## Chapter 1 NetWork Today
 1. Network Type
 - cable
