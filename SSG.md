@@ -43,7 +43,6 @@
 - One of the key findings in the Dunning-Kruger effect experiments is top performers tend to  ->  **underestimate their skills**
 - When the number of comparison targets increase, social comparison tends to  ->  **decrease**
 - People usually compare with friends or co-workers than they are to industry or national averages, what is this comparison called in situational factors?  ->  **local**
-- One of the key findings in the Dunning-Kruger effect experiments is unskilled people are  ->  **overconfident with results**
 - One of the key findings in the Dunning-Kruger effect experiments is unskilled people are  ->   **underestimate their skills**
 - One of the key findings in the Dunning-Kruger effect experiments is top performers tend to  ->  **underestimate their skills**
 - In group decision making process, if there are more people agree on certain point of view, we may consider the fact that the group has  ->  **group polarization**
