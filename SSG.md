@@ -1,5 +1,5 @@
 # SSG BASIC QUESTIONS
-<hr>
+
 - Persistence: kiên trì
 - Thrift: tiết kiệm
 - Frugality: tiết kiệm
