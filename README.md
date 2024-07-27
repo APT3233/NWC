@@ -45,7 +45,6 @@
 - Which PDU format is used when bits are received from the network medium by the NIC of a host -> frame
 - Ethernet -> IP -> TCP -> HTTP
 - which layer of the OSI model would a logical address be added during encapsulation -> network layer
-# Layer
 - Which layer of the OSI model defines services to segment and reassemble data for individual communications between end devices --> Transport
 - Which statement is correct about network protocols -> They define how messages are exchanged between the source and the destination.
 - Why would a Layer 2 switch need an IP address -> to enable the switch to be managed remotely
