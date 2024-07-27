@@ -46,10 +46,18 @@
 - Which layer of the OSI model defines services to segment and reassemble data for individual communications between end devices --> Transport
 
 # Protocol
+
 - BOOTP, POP -> Application layer
 - PPP -> Datalink layer
-- flow control: quá trình quản lý tốc độ truyền dữ liệu giữa hai thiết bị để tránh tình trạng mất dữ liệu hoặc tràn dữ liệu.
-
+- FTP -> truyền file
+- HTTP -> web
+- SMTP -> mail 
+- DNS -> hệ thống phân giải tên miền
+- TCP -> Giao thức này đảm bảo chuyển giao dữ liệu tới nơi nhận một cách đáng tin cậy và đúng thứ tự
+- UDP -> không cung cấp sự tin cậy và thứ tự truyền nhận mà TCP làm; các gói dữ liệu có thể đến không đúng thứ tự hoặc bị mất mà không có thông báo.
+- SNMP -> giao thức được sử dụng để quản lý và giám sát các thiết bị mạng như router, switch, server, và các thiết bị khác trên mạng
+- IMAP ->  giao thức email được sử dụng để truy cập và quản lý email trên một máy chủ thư từ một thiết bị đầu cuối.
+- POP3 -> giao thức được sử dụng để truy cập và lấy email từ một server mail.
 
 ## Chapter 1 NetWork Today
 1. Network Type
@@ -163,3 +171,50 @@
     * Multicast - ff0x::
 - **SLAAC** là một cơ chế cho phép các thiết bị tự động cấu hình địa chỉ IPv6 của chúng mà không cần sự can thiệp từ máy chủ DHCP
 - **Stateless DHCPv6** là một phương pháp bổ sung cho SLAAC, cung cấp thông tin cấu hình bổ sung cho các thiết bị mà SLAAC không cung cấp, chẳng hạn như địa chỉ DNS.
+
+## Chapter 14: Transport layer
+1. TCP Features
+- **Establishes a Session**(thiết lập kết nối)
+- **Ensures Reliable Delivery**(Đảm bảo truyền tải đáng tin cậy)
+- **Provides Same-Order Delivery**(Đảm bảo thứ tự dữ liệu)
+- **Supports Flow Control**(Hỗ trợ điều khiển luồng)
+2. Socket
+- Socket cho phép nhiều tiến trình chạy trên máy khách tự phân biệt với nhau.
+- Socket cho phép nhiều kết nối đến một tiến trình trên máy chủ được phân biệt với nhau.
+ 
+## Chapter 15: Session & Presentation & Application layer
+1. Session layer
+- Tạo và duy trì hội thoại: Tạo và duy trì các cuộc hội thoại giữa các ứng dụng nguồn và đích.
+- Xử lý trao đổi thông tin: Xử lý việc trao đổi thông tin để khởi tạo hội thoại, giữ chúng hoạt động và khởi động lại các phiên bị gián đoạn hoặc không hoạt động trong thời gian dài.
+2. Presentation layer
+- Định dạng dữ liệu: Định dạng, hoặc trình bày dữ liệu tại thiết bị nguồn sang định dạng tương thích để nhận bởi thiết bị đích.
+- Nén dữ liệu: Nén dữ liệu theo cách có thể giải nén bởi thiết bị đích.
+- Mã hóa dữ liệu: Mã hóa dữ liệu để truyền và giải mã dữ liệu khi nhận.
+3. Application
+- Peer-to-peer: client-server model
+    * Thiết bị Đóng Vai Trò Client và Server: Một ứng dụng P2P cho phép một thiết bị hoạt động như cả client và server trong cùng một phiên giao tiếp.  
+    * Hệ Thống Lai (Hybrid): Một số ứng dụng P2P sử dụng hệ thống lai, trong đó mỗi peer truy cập vào một máy chủ chỉ mục để lấy vị trí của tài nguyên được 
+    lưu trữ trên một peer khác.
+    <hr>
+    Common: BitTorrent, Direct Connect, eDonkey, Freenet
+- DNS Message Format
+    * A (Address Record): Bản ghi địa chỉ của thiết bị cuối cùng (IPv4).
+    * NS (Name Server): Bản ghi của máy chủ tên quyền lực.
+    * AAAA (Quad-A Record): Bản ghi địa chỉ của thiết bị cuối cùng (IPv6).
+    * MX (Mail Exchange Record): Bản ghi trao đổi thư điện tử.
+
+## Chapter 16: Sờ cu rờ ti
+-> Thông Tin Bị Đánh Cắp (Information Theft): Kẻ tấn công có thể lấy cắp dữ liệu nhạy cảm hoặc thông tin quan trọng từ mạng.
+-> Mất Mát và Thao Tác Dữ Liệu (Data Loss and Manipulation): Dữ liệu có thể bị mất hoặc bị thay đổi không đúng cách, ảnh hưởng đến tính toàn vẹn của thông tin.
+-> Đánh Cắp Danh Tính (Identity Theft): Kẻ tấn công có thể chiếm đoạt danh tính của người dùng để thực hiện các hành vi gian lận hoặc truy cập trái phép.
+-> Gián Đoạn Dịch Vụ (Disruption of Service): Kẻ tấn công có thể làm gián đoạn hoặc tấn công từ chối dịch vụ (DoS) để làm cho các dịch vụ mạng không hoạt động.
+
+1. Network attack
+![img](./networkattack.png)
+- **Reconnaissance Attacks**(Tấn Công Do Thám): Khám phá và lập bản đồ các hệ thống, dịch vụ hoặc lỗ hổng bảo mật
+- **Access attacks**(Tấn Công Truy Cập): Manipulation không hợp pháp của dữ liệu, quyền truy cập hệ thống hoặc quyền của người dùng.
+    * Password attacks
+    * Trust exploitation
+    * Port redirection
+    * Man-in-the middle 
+- **Denial of service**(Tấn Công Từ Chối Dịch Vụ DOS): Làm tê liệt hoặc làm hỏng các mạng, hệ thống hoặc dịch vụ.
