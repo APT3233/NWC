@@ -58,7 +58,60 @@
 
 
 ## SESSION 2
-- câu hỏi -> **đáp án**
+- Strategy (ies) to develop yourself as a critical thinker -> **All are correct**
+  * A, Redefine the way you see things
+  * B, Reflect and practice
+  * C, Express yourself
+- What is thinking? -> **Is the mental process you use to form associations and models of the world**
+- What is pattern of thought? -> **Is the mark of an educated mind to be able to entertain a thought without accepting it**
+- Learning objectives are ____ that specify what someone will know, care about, or be able to do as a result of a learning experience. -> **goals**
+- What are three main categories or "domains" of the learning skills? -> **Cognitive domain, Affective domain, Psychomotor domain**
+- The "Psychomotor Domain" of learning skills means -> **What you should be able to do**
+- Which of the following domains of learning skills means "What you should care about"? -> **Affective domain**
+- All of the followings are the ways to use critical thinking to evaluate information, EXCEPT -> **Accepting something without asking for evidence**
+- Which is the highest learning-skill level of Bloom's Taxonomy? -> **Create**
+- Which is the lowest learning-skill level of Bloom's Taxonomy? -> **Remember**
+- _____ is "the ability to judge, check, and even critique the value of material for a given -> **Evaluating**
+- _____ is "the ability to grasp or construct meaning from oral, written, and graphic messages". -> **Understanding**
+- The "Applying" skill of Bloom's Taxonomy is: -> **Ability to use learned material (or implement the material) in new and concrete situations**
+- Thought and thinking can be understood as _____within the mind. -> ** Patterns - Systems and Schemes**
+- Creative thinking is -> **All**
+  * a. a way of employing strategies to clear your mind so that your thoughts and ideas can transcend what appear to be the limitations of a problem
+  * important because it helps you look at problems and situations from a fresh perspective
+  * a way to develop novel or unorthodox solutions that do not depend wholly on past or current solutions
+- Which statement is NOT true about creativity? -> **Human is not innately creative**
+- Which of the following statements is NOT correct about a creative thinker? -> **See problems as limits of development**
+- College is great ground for enhancing creative thinking skills as in the below examples, EXCEPT -> **Create plan for better communication with your colleagues**
+- Strategies to stimulate your creative thinking include -> **All**
+  * Sleep on it
+  * Put yourself in nerve-racking situations once in a while to fire up your brain.
+  * Keep a notebook with you so you always have a way to record fleeting thoughts.
+- Key strategy (ies) for success in evaluating information -> **All**
+  * Examine arguments
+  * Clarify thinking
+  * Cultivate "habits of mind"
+- Among the tips for creative thinking, What does "Sensing" mean? -> **Be a good observer of people, nature, and events around you**
+- How to develop your creative thinking skill through "Drawing"? -> **Use mind-mapping to capture ideas**
+- Which action does belong to the strategy "Identify available solutions"? -> **Compare and contrast possible solutions**
+- Which is a fact about Creative Thinking? -> **Only few problems require complex technological solutions**
+- Which is NOT a fiction about Creative Thinking? -> **Creative solution should be answer for all problems**
+- Which technology can help students establish a sense of community with their class and engage in ongoing threaded conversations on assigned readings and topics highlighting diverse points of view? -> **Discussion boards**
+- which way does "Wikis" contribute to our ability to be critical and creative thinkers? -> **All of these are correct**
+  * a.Wikis can help students coordinate, compile, synthesize, and present individual or group projects or research.
+  * Wikis can help students build and share group resources and knowledge.
+  * Wikis can help students provide peer review, feedback, and critiques.
+- What is Critical thinking? -> **Is clear, reasonable, reflective thinking focused on deciding what to believe or do**
+- What are the characteristics of Critical thinking? -> **ALL**
+  * Examining assumptions
+  * Challenging reasoning
+  * Uncovering biases
+
+- Which is NOT a characteristic of Critical thinking? -> **Group thinking**
+- What is the meaning of the word "Logic" in the Ancient Greek logike? -> **The science or art of reasoning**
+- Which of the following statements is NOT correct? -> **."Logic" cannot help to distinguish between good and bad reasoning**
+- What is the purpose of the critical thinker when asking "What is happening?"? -> **To gather the basic information and begin to think of questions**
+- What is the similarity of Critical thinking and Problem-solving? -> **They both refer to using knowledge, facts, and data to solve problems effectively**
+- In order to "Define the problem", which actions should we take? -> **Identify the problem, Provide as many supporting details as possible, Provide examples, Organize the information logically**
 
 
 
