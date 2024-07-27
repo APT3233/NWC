@@ -1,5 +1,6 @@
 # SSG BASIC QUESTIONS
 <hr>
+<hr>
 ### Keyword
 - Persistence: kiên trì
 - Thrift: tiết kiệm
@@ -9,6 +10,8 @@
 - Interdependence: Quan tâm
 - Cooperation: hợp tác 
 - self-evaluation: tự đánh giá
+
+<hr>
 
 ## SESSION 1
 - Formal groups are used to -> **organize and distribute work**
@@ -141,33 +144,33 @@
 - Which is TRUE about persuasion?->**Persuasion is an act or process of presenting arguments to move, motivate, or change your audience**
 - Which of Maslow's Hierarchy of Needs is primarily met when someone joins an exclusive club or is elected as leader of a prestigious group?->**Esteem**
 - Which of Maslow's Hierarchy of Needs is primarily met when a neighborhood watch group forms to deter crime in the community?->**Safety**
-- Which is FALSE about Maslow hierarchy of needs?->**Maslow's Hierarchy of Needs includes control, inclusion, and **
-- Reasons for us to engage in communication are all below EXCEPT->**Dominate people for personal benefits **
+- Which is FALSE about Maslow hierarchy of needs?->**Maslow's Hierarchy of Needs includes control, inclusion, and**
+- Reasons for us to engage in communication are all below EXCEPT->**Dominate people for personal benefits**
 - Laura has an important meeting tomorrow to present her solution to the city People Committee about improving students' life. ->**Prepare the presentation with relevant data and rehearsal the speech**
-- To produce a good opening in a persuasive message, you should keep it->**Positive and personal **
-- When conducting a meeting, you should->**Get every team member to voice out their feeling and opinions **
-- At the end of a meeting, you should->**Be brief and recapture the key points **
+- To produce a good opening in a persuasive message, you should keep it->**Positive and personal**
+- When conducting a meeting, you should->**Get every team member to voice out their feeling and opinions**
+- At the end of a meeting, you should->**Be brief and recapture the key points**
 - Eye contact with your team members can be maintained by->**looking at every individual in a regular pattern **
-- You may maintain less eye contact with audiences who are..->**not showing interest in your presentation **
-- In a communication transaction, feedback represents->**the response or reaction to a message. **
+- You may maintain less eye contact with audiences who are..->**not showing interest in your presentation**
+- In a communication transaction, feedback represents->**the response or reaction to a message.**
 - Susan knows she must offer constructive feedback to the employee, so she decides to->** stress the benefits the receiver will gain by modifying his/her behavior**
 - Which type of feedback requests confirmation or clarification of a message, and is often expressed in the form of a question?->**Interpretive**
-- Which type of feedback communicates encouragement in response to a message?->**Supportive **
-- Which type of feedback communicates sympathy and empathy for the source of the message?->**Understanding **
+- Which type of feedback communicates encouragement in response to a message?->**Supportive**
+- Which type of feedback communicates sympathy and empathy for the source of the message?->**Understanding**
 - The best way to convey friendliness is to......->**smile**
-- The first thing David should do is..........->**determine the purpose of the presentation **
-- Michelle is new staff of Marketing department in FPT Software company.->**Progress **
+- The first thing David should do is..........->**determine the purpose of the presentation**
+- Michelle is new staff of Marketing department in FPT Software company.->**Progress**
 - Susan is a new staff of IT team 3 in FPT Software company.->**Technical**
 - When preparing report content, you should ask all of the questions below except->**How much do your manager pay you to write the report? **
 - What is abstract in a report?->**Include aims and outcome of the research**
-- What are included in a report abstract?->**Highlight topic, methods, data, and results **
+- What are included in a report abstract?->**Highlight topic, methods, data, and results**
 - The solution to a research problem is presented in the report as a part of the->**recommendation**
 - Which of the following is the best example of constructive feedback?->**All the elements of a good proposal are here; they just need to be reordered. By placing the strongest element first, we can capture and hold the reader's attention.**
 - Which of the following statements is NOT true of performance appraisals?->**They may include humor if audience analysis dictates it will be well received **
 - The disadvantage of written messages is that they->**Can be viewed as being more formal, in part because they are permanent.**
 - Can be viewed as being more formal, in part because they are permanent.->** Familiarity with the receiver**
 - How should the saying "your understanding was wrong" can be paraphrased into a more positive way?->**Let us review the facts**
-- If your receivers do not work in the same industry with you, you are recommended to use ....->**nontechnical words **
+- If your receivers do not work in the same industry with you, you are recommended to use ....->**nontechnical words**
 - Which sentence below effectively conveys a positive attitude?->**Our professional staff will repair your laptop.**
 - How can you demonstrate sensitivity to a partner's culture?->**Start formally before becoming informal**
 - In order to make good impression to achieve the message goals, positive words convey optimism and confidence are-> **Favorable, compliment, answerable**
