@@ -1,7 +1,5 @@
 # SSG BASIC QUESTIONS
 <hr>
-<hr>
-### Keyword
 - Persistence: kiên trì
 - Thrift: tiết kiệm
 - Frugality: tiết kiệm
